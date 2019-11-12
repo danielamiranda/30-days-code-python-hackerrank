@@ -7,4 +7,4 @@ The purpose of this repository is only having fun. the challenges can be found h
 My username in Hackerrank is [@d_d_miranda_res1](https://www.hackerrank.com/d_d_miranda_res1?hr_r=1)
 
 - Starting date: 14-10-2019
-- End date: TBA
+- End date: 12-11-2019
